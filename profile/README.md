@@ -14,7 +14,8 @@
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8ca811879fe83129483af517b1692b25348a433&rid=giphy.gif&ct=g">
 
 <br>
-<h2> &#127757; Built by the community </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Built+by+the+community+)](https://git.io/typing-svg)
 
  The open source community is the foundation of  Nisanci software. 
  
@@ -22,9 +23,12 @@
 
 <br>
 
-<h2> &#128420; Become a sponsor</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Become+a+sponsor)](https://git.io/typing-svg)
+
 Monthly support means a lot if you plan on using the shooter software. <br> Open source doesn't pay the bills on its own. It will be with your support to continue our work. <br> Thanks . <br> <br>
 
 <img src="https://media2.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif?cid=790b7611ceae7d073eebd91e721fefe7bc0248a3c8220dad&rid=giphy.gif&ct=g" height="320px">
 <br>
  <h3> Click  <a href=""> here </a>  to become a Github Sponsor. &nbsp;  &#128151; </h3>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
